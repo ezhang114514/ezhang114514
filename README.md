@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data structures, algorithms, and machine learning. 
 - 💞️ I’m looking to collaborate on different projects. 
 - 📫 How to reach me: edwardzhongweizhang@gmail.com, edwardzhongweizhang@ourlook.com, or edwardzhongweizhang@berkeley.edu
+- 😎 My LinkedIn Profile: https://www.linkedin.com/in/edward-z-0b5995209/
 
 <!---
 ezhang114514/ezhang114514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
